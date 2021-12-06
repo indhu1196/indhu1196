@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1> Hi there 👋, I'm Indhumathi K</h1>
+<h4>Front-end Developer</h4>
+<hr />
 
 <!--
 **indhu1196/indhu1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
